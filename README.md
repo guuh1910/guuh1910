@@ -3,7 +3,6 @@
 Meu nome e *Gustavo*
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- 
 - Estudante da escola mecca sampaio
 - Estou aprendendo sobre a linguagem JavaScript
 
